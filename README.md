@@ -17,4 +17,4 @@
 
 <br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SanthoshM1624?theme=dark&font=Noto%20Sans%20Nabataean&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Megha1230?theme=dark&font=Noto%20Sans%20Nabataean&ext=heatmap)
