@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Megha Nandhini K L</h1>
-<h3 align="center">Software Developer | Machine Learning Enthusiast | UI/UX Designer </h3>
+<h3 align="center">Software Developer </h3>
 
 <br>
 
@@ -17,4 +17,4 @@
 
 <br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/megha1611?theme=dark&font=Noto%20Sans%20Nabataean&ext=heatmap)
+
