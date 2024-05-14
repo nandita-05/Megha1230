@@ -4,7 +4,7 @@
 <br>
 
 - 🌱 I’m currently studying **Computer Science and Design**
-- 📫 How to Reach me <a href="mailto:meghanandhini16@gmail.com">meghanandhini16@gmail.com</a>
+- 📫 How to Reach me <a href="mailto:meghanandhini16@gmail.com">meghmail.com</a>
 
 <br>
 
